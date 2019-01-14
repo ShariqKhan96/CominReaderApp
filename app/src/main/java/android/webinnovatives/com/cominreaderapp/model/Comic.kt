@@ -2,9 +2,9 @@ package android.webinnovatives.com.cominreaderapp.model
 
 class Comic
 {
-    var ID:String?=null
-    var Name:String?=null
-    var Image:String?=null
+   public var ID:Int?=null
+   public var Name:String?=null
+   public var Image:String?=null
 
     constructor()
 
